@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/AlexanderC04/Stats-preview-card-component-.git)
-- Live Site URL: (https://alexanderc04.github.io/Stats-preview-card-component-/)
+- Solution URL: (https://github.com/AlexanderC04/Stats-preview-card-component.git)
+- Live Site URL: (https://alexanderc04.github.io/Stats-preview-card-component/)
 
 ## My process
 
